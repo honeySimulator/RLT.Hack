@@ -1,0 +1,10 @@
+{{ object.название }}
+{{ object.цена }}
+{{ object.доставка }}
+{{ object.объем }}
+{{ object.поставщик }}
+{{ object.emails }}
+{{ object.phones }}
+{{ object.инн }}
+{{ object.огрн }}
+{{ object.окпд2 }}
